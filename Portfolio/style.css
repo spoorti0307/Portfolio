@@ -1,0 +1,64 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+color: white;
+}
+#introvideo
+{
+   width: 100%;
+}
+.navbar
+{
+   background:  rgb(16, 13, 59);
+   
+   width: 480px;
+   margin: 0px auto;
+   padding: 10px 10px;
+   border-radius: 20px;
+   border: 3px ridge rgb(26, 9, 73) ;
+   
+  
+}
+.navitems
+{
+   display: inline;
+   margin-right: 15px;
+   
+}
+.navlink
+{
+   text-decoration: none;
+   color: white;
+   
+}
+#heading
+{
+   font-weight: 1000;
+   background: rgb(16, 13, 59);
+   background-clip: text;
+   color: transparent;
+   text-align: center;
+   
+}
+section
+{
+   padding: 20px 20px;
+   background-color: rgb(29, 26, 75);
+   margin: 25px auto;
+   border-radius: 20px;
+   width: 95%;
+   box-shadow: 8px 9px 10px rgb(37, 37, 99);
+   scroll-behavior: smooth;
+}
+#hh2
+{
+   background-color:  rgb(163, 184, 245) ;
+   background-clip: text;
+   color: transparent;
+}
+
+.lof{
+   border-radius: 50%;
+   
+}
